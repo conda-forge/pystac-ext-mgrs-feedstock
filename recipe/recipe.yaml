@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: pystac-ext-mgrs
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-mgrs/pystac_ext_mgrs-${{ version }}.tar.gz
-  sha256: ac96294b5b81a4df655e9162809c09c97cf1af21c1b4f146d9cd398caad39f44
+  sha256: 8251de11138bd9dcc8fc757d5b28eafdfd6991f827e8e64745637886ecb26a92
 
 build:
   number: 0
